@@ -6,7 +6,7 @@
  <br> <br> <br> <br>
 
 
-![alt](Add.jpg width=200, hight=300)
+![alt](Add.jpg width="200" height="400")
 
 
 
