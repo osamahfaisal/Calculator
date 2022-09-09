@@ -5,7 +5,7 @@
 * ### to  apply addition we can see the following screan 
  <br> <br> <br> <br>
 
-
+< img src="Add.jpg" />
 ![alt](Add.jpg width="200" height="400")
 
 
