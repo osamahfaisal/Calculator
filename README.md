@@ -6,7 +6,7 @@
  <br> <br> <br> <br>
 
 
-<img src="Add.jpgg" width="30%"><img src="Add.jpgg" width="30%">
+<img src="Add.jpgg" width="200px" hight="250px"><img src="Add.jpgg" width="200px" hight="250px">
 
 
 
