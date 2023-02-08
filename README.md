@@ -6,16 +6,14 @@
  <br> <br> <br> <br>
 
 
-![alt](Add.jpg)
+<img src="Add.jpgg" width="30%"><img src="Add.jpgg" width="30%">
 
 
 
 
- <br> <br> <br> <br>
-*  ### the final value 
 
 
- <br> <br> <br> <br>
+ 
 
-![alt](Final_Value.jpg)
+
 
