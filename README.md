@@ -4,7 +4,7 @@
 
 * ### to  apply addition we can see the following screan 
 
-<img src="Add.jpg" width="20%" height="25%">   <img src="Add.jpg" width="20%" height="25%" style="margin-left: 30px"">
+<img src="Add.jpg" width="20%" height="25%">   <img src="Add.jpg" width="20%" height="25%" style="margin-left: 30px">
 
 
 
